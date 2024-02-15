@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "sample.lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/sample.lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sample.lib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "sample.lib/1.0.0": {
+      "type": "project",
+      "path": "../sample.lib/sample.lib.csproj",
+      "msbuildProject": "../sample.lib/sample.lib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "sample.lib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jhenry\\.nuget\\packages\\": {},
@@ -44,7 +63,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jhenry\\source\\repos\\husky-test\\src\\sample.lib\\sample.lib.csproj": {
+              "projectPath": "C:\\Users\\jhenry\\source\\repos\\husky-test\\src\\sample.lib\\sample.lib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

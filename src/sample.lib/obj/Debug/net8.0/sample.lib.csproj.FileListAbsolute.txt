@@ -1,0 +1,12 @@
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\bin\Debug\net8.0\sample.lib.deps.json
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\bin\Debug\net8.0\sample.lib.dll
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\bin\Debug\net8.0\sample.lib.pdb
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.AssemblyInfoInputs.cache
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.AssemblyInfo.cs
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.csproj.CoreCompileInputs.cache
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.sourcelink.json
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.dll
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\refint\sample.lib.dll
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\sample.lib.pdb
+C:\Users\jhenry\source\repos\husky-test\src\sample.lib\obj\Debug\net8.0\ref\sample.lib.dll
